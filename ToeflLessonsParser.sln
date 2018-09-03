@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToeflLessonsParser", "ToeflLessonsParser\ToeflLessonsParser.csproj", "{DCBEAAB9-EE4A-4929-98BC-D5CB2AE179F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeVideoParser", "YouTubeVideoParser\YouTubeVideoParser.csproj", "{84056F9F-8E0A-4D16-AA74-9A3FA393ACC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBEAAB9-EE4A-4929-98BC-D5CB2AE179F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBEAAB9-EE4A-4929-98BC-D5CB2AE179F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBEAAB9-EE4A-4929-98BC-D5CB2AE179F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBEAAB9-EE4A-4929-98BC-D5CB2AE179F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84056F9F-8E0A-4D16-AA74-9A3FA393ACC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84056F9F-8E0A-4D16-AA74-9A3FA393ACC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84056F9F-8E0A-4D16-AA74-9A3FA393ACC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84056F9F-8E0A-4D16-AA74-9A3FA393ACC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB95452-52DF-468F-8FFD-498C6FD1A733}
+	EndGlobalSection
+EndGlobal
